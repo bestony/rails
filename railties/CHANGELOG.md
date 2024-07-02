@@ -1,3 +1,11 @@
+*   Deprecate `bin/rake stats` in favor of `bin/rails stats`.
+
+    *Juan Vásquez*
+
+*   Add internal page `/rails/info/notes`, that displays the same information as `bin/rails notes`.
+
+    *Deepak Mahakale*
+
 *   Add Rubocop and GitHub Actions to plugin generator.
     This can be skipped using --skip-rubocop and --skip-ci.
 
